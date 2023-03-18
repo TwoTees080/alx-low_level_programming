@@ -1,9 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/* function to check if number is positive or negative */
+/**
+ * main - entry point
+ * Description - checks if number is positive, negative or zero
+ * Return: 0 (success)
+ */
 int main(void)
 {
 	int n;
