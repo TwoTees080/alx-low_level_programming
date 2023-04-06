@@ -52,7 +52,7 @@ int validate_palindrome(char *str, int len, int index)
 int is_palindrome(char *s)
 {
 	int index = 0;
-	int len = find_strlen(s);
+	int len = check_strlen(s);
 
 	if (!(*s))
 		return (1);
