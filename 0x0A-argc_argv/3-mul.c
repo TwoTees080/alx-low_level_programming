@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - program that prints the result of multiplication
+ * main - program that prints the result of multiplication of arguments
  * @argc: arguments count
  * @argv: array of strings of arguments passed to main
  *
