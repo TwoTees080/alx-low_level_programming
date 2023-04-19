@@ -10,7 +10,7 @@
  * Return: 0 or errors
  */
 
-int main(int argc, char **argv)
+int main(int __attribute__((__unused__)) argc, char **argv)
 {
 	char temp = argv[2][0];
 	int a = 0, num1 = 0, num2 = 0;
