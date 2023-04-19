@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include "3-calc.h"
+#include <stdlib.h>
 
 /**
  * main - call function to print result
